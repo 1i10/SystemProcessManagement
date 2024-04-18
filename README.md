@@ -49,7 +49,7 @@
 ## Примеры
 
 **Успешное завершение процесса**  
-![Пример1](https://github.com/1i10/SystemProcessManagement/tree/main/Example/exampleGood.gif)
+![Пример1](https://github.com/1i10/SystemProcessManagement/blob/main/Example/exampleGood.gif)
   
 **Возникновение исключения при попытке завершить процесс**  
-![Пример1](https://github.com/1i10/SystemProcessManagement/tree/main/Example/exampleFail.gif)
+![Пример2](https://github.com/1i10/SystemProcessManagement/blob/main/Example/exampleFail.gif)
